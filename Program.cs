@@ -1,4 +1,18 @@
+using MaiThiThanh2022938.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+if (builder.Environment.IsDevelopment())
+{
+    builder.Services.AddDbContext<ApplicationContext>(options =>
+        options.UseSqlite(builder.Configuration.GetConnectionString("ApplicationContext")));
+}
+else
+{
+    builder.Services.AddDbContext<ApplicationContext>(options =>
+        options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionApplicationContext")));
+}
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

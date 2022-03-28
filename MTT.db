@@ -1,0 +1,3 @@
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+    )I]7indexsqlite_autoindex___EFMigrationsHistory_1__EFMigrationsHistory

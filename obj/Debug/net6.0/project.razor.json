@@ -16308,6 +16308,26 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\MaiThiThanh2022938\\Views\\PersonHTT774s\\Details.cshtml",
+      "TargetPath": "Views\\PersonHTT774s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MaiThiThanh2022938\\Views\\PersonHTT774s\\Index.cshtml",
+      "TargetPath": "Views\\PersonHTT774s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MaiThiThanh2022938\\Views\\PersonHTT774s\\Delete.cshtml",
+      "TargetPath": "Views\\PersonHTT774s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MaiThiThanh2022938\\Views\\PersonHTT774s\\Edit.cshtml",
+      "TargetPath": "Views\\PersonHTT774s\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\MaiThiThanh2022938\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16330,6 +16350,11 @@
     {
       "FilePath": "c:\\MaiThiThanh2022938\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\MaiThiThanh2022938\\Views\\PersonHTT774s\\Create.cshtml",
+      "TargetPath": "Views\\PersonHTT774s\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
